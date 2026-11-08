@@ -30,3 +30,7 @@ Ask your AI coding assistant to use **Async Python Patterns** for a related task
 ## License
 
 MIT License. See [LICENSE](LICENSE).
+
+## Additional Resources
+
+Added `resources/implementation-playbook.md` covering concurrency limits, timeouts, cancellation, backpressure, testing, and observability.
